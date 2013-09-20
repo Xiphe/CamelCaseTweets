@@ -98,10 +98,22 @@ textarea {
    ========================================================================== */
 
 
+#wrap {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
 
+#camecasethis {
+    display: block;
+    width: 100%;
+}
 
-
-
+#camecasehere {
+    margin: 2em 0;
+    border: 3px solid #ccc;
+    padding: 2em;
+}
 
 
 
